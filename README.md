@@ -1,1 +1,1 @@
-# -mogis
+# -amogis
